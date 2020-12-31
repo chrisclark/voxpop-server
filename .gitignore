@@ -6,8 +6,6 @@ db.sqlite3
 getting-started/*
 .DS_STORE
 *.rdb
-runtime.txt
-Procfile
 node_modules/
 dist/
 npm-debug.log
