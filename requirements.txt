@@ -3,8 +3,7 @@ click==7.1.2
 dnspython==1.16.0
 Flask==1.1.2
 Flask-SocketIO==5.0.1
-gevent==20.12.1
-gevent-websocket==0.10.1
+eventlet==0.30.0
 gunicorn==20.0.4
 itsdangerous==1.1.0
 Jinja2==2.11.2
